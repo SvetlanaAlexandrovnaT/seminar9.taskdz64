@@ -36,6 +36,3 @@ else
     }
     SumRec(m, n);
  }
-
-
-
